@@ -1,1 +1,1 @@
-cd path/to/your-repository
+touch main.py
